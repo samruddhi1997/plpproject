@@ -1,0 +1,669 @@
+[main] INFO     - exception in insertion
+[main] INFO  user  - exception in selecting user
+[main] INFO  user  - exception in selecting user
+[main] INFO  customer  - Please Enter Login Details: 
+[main] INFO  customer  - Email: 
+[main] INFO  customer  - Password: 
+[main] INFO  user  - exception in selecting user
+[main] INFO  user  - please Enter 1 to login 
+[main] INFO  user  - please Enter 2 to check journey details
+[main] INFO  user  - please Enter 3 to check Schedule details
+[main] INFO  customer  - Please Enter Login Details: 
+[main] INFO  customer  - Email: 
+[main] INFO  customer  - Password: 
+[main] INFO  user  - exception in selecting user
+[main] INFO  user  - please Enter 1 to login 
+[main] INFO  user  - please Enter 2 to check journey details
+[main] INFO  user  - please Enter 3 to check Schedule details
+[main] INFO  customer  - Please Enter Login Details: 
+[main] INFO  customer  - Email: 
+[main] INFO  customer  - Password: 
+[main] INFO  user  - please Enter 1 to login 
+[main] INFO  user  - please Enter 2 to check journey details
+[main] INFO  user  - please Enter 3 to check Schedule details
+[main] INFO  customer  - Please Enter Login Details: 
+[main] INFO  customer  - Email: 
+[main] INFO  customer  - Password: 
+[main] INFO  user  - please Enter 1 to login 
+[main] INFO  user  - please Enter 2 to check journey details
+[main] INFO  user  - please Enter 3 to check Schedule details
+[main] INFO  customer  - Please Enter Login Details: 
+[main] INFO  customer  - Email: 
+[main] INFO  customer  - Password: 
+[main] INFO  user  - please Enter 1 to login 
+[main] INFO  user  - please Enter 2 to check journey details
+[main] INFO  user  - please Enter 3 to check Schedule details
+[main] INFO  customer  - Please Enter Login Details: 
+[main] INFO  customer  - Email: 
+[main] INFO  customer  - Password: 
+[main] INFO  user  - please Enter 1 to login 
+[main] INFO  user  - please Enter 2 to check journey details
+[main] INFO  user  - please Enter 3 to check Schedule details
+[main] INFO  customer  - Please Enter Login Details: 
+[main] INFO  customer  - Email: 
+[main] INFO  customer  - Password: 
+[main] INFO  user  - please Enter 1 to login 
+[main] INFO  user  - please Enter 2 to check journey details
+[main] INFO  user  - please Enter 3 to check Schedule details
+[main] INFO  customer  - Please Enter Login Details: 
+[main] INFO  customer  - Email: 
+[main] INFO  customer  - Password: 
+[main] INFO  user  - please Enter 1 to login 
+[main] INFO  user  - please Enter 2 to check journey details
+[main] INFO  user  - please Enter 3 to check Schedule details
+[main] INFO  customer  - Please Enter Login Details: 
+[main] INFO  customer  - Email: 
+[main] INFO  customer  - Password: 
+[main] INFO  customer  - please enter customerid: 
+[main] INFO  customer  - 1
+[main] INFO  customer  - 
+[main] INFO  customer  - please enter customerid: 
+[main] INFO  customer  - 1
+[main] INFO  customer  - please enter customerid: 
+[main] INFO  customer  - 1
+[main] INFO  customer  - 
+[main] INFO  customer  - please enter customerid: 
+[main] INFO  customer  - 1
+[main] INFO  customer  -  
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  customer  - please enter customerid: 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  customer  - please enter customerid: 
+[main] INFO  customer  - 1
+[main] INFO  customer  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  customer  - please enter customerid: 
+[main] INFO  customer  - 1
+[main] INFO  customer  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  customer  - please enter customerid: 
+[main] INFO  customer  - 1
+[main] INFO  customer  -  
+customer_id =customerId:= 1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  customer  - please enter customerid: 
+[main] INFO  customer  - 1
+[main] INFO  customer  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - please enter customerid: 
+[main] INFO  customer  - 1
+[main] INFO  customer  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - please enter customerid: 
+[main] INFO  user  - 1
+[main] INFO  user  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerid: 
+[main] INFO  user  - 1
+[main] INFO  user  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerid: 
+[main] INFO  user  - 4
+[main] INFO  user  -  
+customer_id =4
+RUSHIKESH		1234		9370009616		RUSHIKESH@GMAIL.COM		DFGHJK		MALE		INDIAN
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerid: or customer_name: 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerId: or customerName: 
+[main] INFO  user  - sam
+[main] INFO  user  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerId: or customerName: 
+[main] INFO  user  -  
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerId: or customerName: 
+[main] INFO  user  -  
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerId: or customerName: 
+[main] INFO  user  -  
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerId: or customerName: 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - please enter customerId: or customerName: 
+[main] INFO  user  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  -  
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  -  
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  - Please Enter valid id 
+[main] INFO  user  -  
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  - Please Enter valid id 
+[main] INFO  user  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  customer  - mumbai
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - tuesday
+[main] INFO  customer  - mumbai
+[main] INFO  customer  - dubai
+[main] INFO  customer  - 1970-01-01
+[main] INFO  customer  - 1970-01-01
+[main] INFO  customer  - 
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id = tuesday
+mumbai		dubai		1970-01-01		1970-01-01
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - press 1 for Customer Details
+[main] INFO  user  - please enter customerId:
+[main] INFO  user  -  
+customer_id =1
+sam		123		900465866		samruddhi234@gmail.com		aadhar card		f		Indian
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id = tuesday
+mumbai		dubai		1970-01-01		1970-01-01
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id = tuesday
+mumbai		dubai		12:12:00		12:12:12
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id = 
+tuesday
+mumbai		dubai		12:12:00		12:12:12
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id = 
+tuesdaymumbai		dubai		12:12:00		12:12:12
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id = 
+tuesday		mumbai		dubai		12:12:00		12:12:12
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id = 
+3tuesday		mumbai		dubai		12:12:00		12:12:12
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id = 3
+tuesday		mumbai		dubai		12:12:00		12:12:12
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id = 3
+tuesday		mumbai		dubai		12:12:00		12:12:12
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 2 to get Schedule Details
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id = 3
+tuesday		mumbai		dubai		12:12:00		12:12:12
+[main] INFO  customer  - 
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id =1
+1		a		z		00:00:00		13:31:17
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id =3
+3		mumbai		dubai		12:12:00		12:12:12
+[main] INFO  user  - Welcome to Airline Reservation System...
+[main] INFO  user  - Please Enter your choice
+[main] INFO  user  - please press 3 to get Journey Deatails
+[main] INFO  customer  - Please enter below details
+
+[main] INFO  customer  - Flight ID: 
+[main] INFO  customer  - 
+flight_id =1
+1		a		z		00:00:00		13:31:17
